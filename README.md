@@ -14,7 +14,7 @@ Data Analytics
 ### **Institution**
 GrowAI
 
-### **Date of Submission**
+### **Deadline of Submission**
 3 January 2026
 
 ---
