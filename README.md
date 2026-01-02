@@ -3,7 +3,7 @@
 ---
 
 ### **Assignment Title**
-Electric Vehicle Data Analysis – Take Home Assignment
+Electric Vehicle Data Analysis 
 
 ### **Student Name**
 Bhuvana sri Mulakala 
